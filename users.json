@@ -1,0 +1,11 @@
+{
+  "companyName": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Eugene",
+      "position": "Developer",
+      "location": "Agdao, Davao City"
+    }
+  ]
+}
